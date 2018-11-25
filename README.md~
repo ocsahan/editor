@@ -22,7 +22,6 @@ IMG_In.png,IMG_Out.png,G,E,S
 Flags for effects are listed below
 
 Flag | Effect
---- | ---
 E | Detect edges
 B | Blur
 G | Grayscale
